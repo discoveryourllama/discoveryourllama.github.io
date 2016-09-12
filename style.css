@@ -63,6 +63,12 @@
 	margin-left: 20%;
 }
 
+.option_img:hover{
+	background: rgba(0,0,0,.7);
+	transition: all 0.3s;
+	opacity: .5;
+}
+
 .shoes_text{
 	color:#6675d2;
 }

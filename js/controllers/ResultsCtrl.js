@@ -4,7 +4,7 @@ angular.module('llamaApp')
 
     console.log("On results page");
 
-    $scope.isCrazy, $scope.isHip, $scope.isSoph, $scope.isWork, $scope.isFun, $scope.isAth = false;
+    $scope.isCrazy, $scope.isHip, $scope.isSoph, $scope.isWork, $scope.isFun, $scope.isAth, $scope.isEmpty = false;
 
     $scope.choiceObj = choice.sharedObject;
 
@@ -34,6 +34,9 @@ angular.module('llamaApp')
     else if ($scope.choiceObj.work >= 9){
         console.log("llama is work");
         $scope.isWork = true;
+    }
+    else {
+        $scope.isEmpty = true;
     }
 
     $scope.begin = function(){
