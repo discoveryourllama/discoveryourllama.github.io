@@ -7,5 +7,9 @@
 		margin-top: 40%;
 		height: 75px;
 		font-size: 16px ! important;
+		background-position: center left;
 	}	
+	.banner_img{
+		/*width: 75%;*/
+	}
 }

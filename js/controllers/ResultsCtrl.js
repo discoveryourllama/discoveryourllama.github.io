@@ -36,7 +36,7 @@ angular.module('llamaApp')
         $scope.isWork = true;
     }
     else {
-        $scope.isEmpty = true;
+        $scope.isFun = true;
     }
 
     $scope.begin = function(){
