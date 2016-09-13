@@ -6,12 +6,12 @@
 	.banner {
 		background: url(http://secretvalley.ie/wp-content/uploads/2015/06/llama.jpg) no-repeat center center fixed; 
 		background-size: cover;
-		background-position: center center;
+		background-position: left top;
 		background-attachment: fixed;
 	}
 
 	.results_box{
-		font-size: 16px;
+		font-size: 26px;
 	}
 
 }
