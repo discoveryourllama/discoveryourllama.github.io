@@ -12,8 +12,6 @@
 	.banner {
 		background: url(https://upload.wikimedia.org/wikipedia/en/6/67/Wiki-llama.jpg) no-repeat center center fixed; 
 		background-size: cover;
-		/*background-position: center top;*/
-		/*background-attachment: fixed;*/
 	}
 	.banner.resize {
 		width: 75%;
@@ -27,10 +25,11 @@
 		width: 75%;
 		top: 0px;
 		left: 0px;
-		/*background-position: center center;*/
-		/*background-attachment: fixed;*/
 	}
 	.header_text{
 		font-size: 32px;
+	}
+	.back_btn{
+		top: 25px;
 	}
 }
