@@ -1,5 +1,5 @@
 @media only screen 
-    and (max-device-width: 640px), 
+    and (max-device-width: 750px), 
     only screen and (max-device-width: 667px), 
     only screen and (max-width: 480px)
 { 
@@ -8,10 +8,18 @@
 		background-size: cover;
 		background-position: left top;
 		background-attachment: fixed;
+		height: 1500px !important;
 	}
 
 	.results_box{
 		font-size: 26px;
+	}
+
+	.play_btn{
+		width: 45%;
+		margin-top: 80%;
+		height: 150px;
+		font-size: 36 !important;
 	}
 
 }
