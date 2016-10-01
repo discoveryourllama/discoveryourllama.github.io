@@ -1,0 +1,1 @@
+This site is mobile-responsive. It uses HTML5, CSS3, Bootstrap, and JavaScript. 

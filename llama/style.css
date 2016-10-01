@@ -1,0 +1,125 @@
+* {
+	box-sizing: border-box;
+	font-family: 'Roboto', sans-serif !important;
+}
+
+.header{
+	/*background-color: #D0C9B9;*/
+}
+
+.border_bottom{
+	border-bottom: solid 2px black; 
+}
+
+.header_text{
+	text-align: center;
+	color: #ff5252;
+	font-size: 48px;
+}
+
+.play_btn {
+	text-align: center;
+	margin: 0px auto;
+	width: 100%;
+	margin-top: 90%;
+	height: 100px;
+	font-size: 32px ! important;
+}
+
+.banner {
+	background: url(https://www.peruforless.com/blog/wp-content/uploads/2014/01/llamas.jpg) no-repeat center center fixed; 
+	background-size: cover;
+	background-position: center center;
+	background-attachment: fixed;
+}
+
+.banner_img {
+	margin: 0px auto;
+	display:block;
+	position: absolute;
+	height: 100%;
+	width: 100%;
+	top: 0px;
+	left: 0px;
+}
+
+.height{
+	height: 500px;
+}
+
+.main_txt{
+	margin: 0px auto;
+	width: 100%;
+	text-align: center;
+	color: #96ADC8;
+	font-size: 48px;
+}
+
+.option_img{
+	margin: 0px auto;
+	width: 60%;
+	text-align: center;
+	height: 60%;
+	margin-left: 20%;
+}
+
+.shoes_text{
+	color:#6675d2;
+}
+
+.shoe_img {
+	margin-top: 40px;
+}
+
+.accesory_text{
+	color: #5dbfbb;
+}
+
+.bag_text{
+	color: #7ABA7A;
+}
+
+.llama_text{
+	font-size: 32px;
+	text-align: center;
+}
+
+.result_pic{
+	margin: 0px auto;
+	width: 75%;
+	margin-left: 12%
+}
+
+.bio_text{
+	margin-top: 20px;
+	font-size: 20px;
+}
+
+.develop_text{
+	font-size: 16px;
+	margin-top: -2%;
+}
+
+.github_img{
+	width: 10%;
+	margin-top: -10px;
+}
+
+.linkedin_img{
+	width: 8%;
+	margin-top: -10px;
+}
+
+.back_btn{
+	margin: 0px auto;
+	width: 100px;
+	position: relative;
+	top: 45px;
+	height: 50px;
+	font-size: 12px ! important;
+	/*margin-top: -10px;*/
+}
+
+.results_text{
+	margin-top: -6px;
+}
